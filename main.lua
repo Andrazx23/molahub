@@ -11,6 +11,7 @@ local creatorId = game.CreatorId
 local communityCreators = {
     [9091133975] = "https://raw.githubusercontent.com/Andrazx23/molahub/refs/heads/main/CatchAndTame.lua", -- Catch And Tame
     [1002185259]    = 'https://raw.githubusercontent.com/Andrazx23/molahub/refs/heads/main/SailorPiece.lua', -- Sailor Piece
+    [10004244222] = "https://raw.githubusercontent.com/Andrazx23/molahub/refs/heads/main/KickAluckyblcok.lua"
 }
 
 if communityCreators[creatorId] then 
