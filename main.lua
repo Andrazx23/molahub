@@ -14,7 +14,8 @@ local gameId = game.GameId
 local supportedGames = {
     [9091133975] = "https://raw.githubusercontent.com/Andrazx23/molahub/refs/heads/main/CatchAndTame.lua",
     [9186719164] = "https://raw.githubusercontent.com/Andrazx23/molahub/refs/heads/main/SailorPiece.lua",
-    [10004244222] = "https://raw.githubusercontent.com/Andrazx23/molahub/refs/heads/main/KickAluckyblcok.lua"
+    [10004244222] = "https://raw.githubusercontent.com/Andrazx23/molahub/refs/heads/main/KickAluckyblcok.lua",
+    [9792947201] = "https://raw.githubusercontent.com/Andrazx23/molahub/refs/heads/main/SlimeRng.lua",
 }
 
 if supportedGames[gameId] then 
